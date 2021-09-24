@@ -1,2 +1,2 @@
 # Udemy-Data-Analysis-and-Visualization-Case-Studies
-Practice
+Jupyter Notebook
